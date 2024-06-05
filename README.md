@@ -1,8 +1,8 @@
 ### Heyy eu sou a Rafa Bomfim 👋
 
 **About me**
-- 🎓 Estudante de Sistemas de informação | UAM
-- 💼 Junior Software Engineer [Itaú Unibanco](https://www.itau.com.br/)
+- 🎓 Cursando MBA em Engenharia de Dados | IMPACTA
+- 💼 Engenheira de Software Pleno [Itaú Unibanco](https://www.itau.com.br/)
 - Acesse meu perfil no Trailhead Salesforce [Aqui](https://trailblazer.me/id/rbomfim)
 - 💬 Me pergunte sobre qualquer coisa [Aqui](https://github.com/java2124/java2124/issues)
 
